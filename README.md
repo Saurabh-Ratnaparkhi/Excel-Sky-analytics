@@ -1,4 +1,3 @@
-# Travel-Hospitality
 # Sky Analytics: Navigating the Complexities of Airline and Airport Operations
 This is an excel analysis project made on flight data.
 
