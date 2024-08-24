@@ -1,7 +1,7 @@
 # Travel-Hospitality
 This is an excel analysis project made on flight data.
-https://github.com/Saurabh-Ratnaparkhi/Excel-Sky-analytics/blob/main/Aircraft_wallpaper%20(1).png
-+![Flight](https://github.com/Saurabh-Ratnaparkhi/Excel-Sky-analytics/blob/main/Aircraft_wallpaper%20(1).png)
+
++![Flight](https://github.com/Saurabh-Ratnaparkhi/Excel-Sky-analytics/blob/main/Flight_wallpaper.png)
 
 This project consists of a dashboard made out of excel analyzing data and trends from flight data. The raw data in .csv format
 has been provided in the repo itself.
